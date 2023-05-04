@@ -4,6 +4,7 @@
  * main - add one line
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 int n;
@@ -22,6 +23,6 @@ p = &n;
    */
 *(p + 5) = 98;
   /* ...so that this prints 98\n */
-printf("a[2] = %d\n" a[2]);
+printf("a[2] = %d\n", a[2]);
 return (0);
 }
