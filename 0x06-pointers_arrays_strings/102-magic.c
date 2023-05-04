@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - add on line
+ * main - add one line
  * Return: Always 0 (Success)
  */
 int main(void)
