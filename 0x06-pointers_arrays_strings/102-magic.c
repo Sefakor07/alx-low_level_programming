@@ -1,6 +1,9 @@
 #include <stdio.h>
-#include "main.h"
 
+/**
+ * main - add on line
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 int n;
